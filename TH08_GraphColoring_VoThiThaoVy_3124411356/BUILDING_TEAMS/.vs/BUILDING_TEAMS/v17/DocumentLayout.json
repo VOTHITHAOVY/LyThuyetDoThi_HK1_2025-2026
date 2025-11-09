@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\legion y9000p\\Desktop\\TH8_ToMau\\BUILDING_TEAMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{949D872E-2505-4F23-8FB6-F275986E962C}|BUILDING_TEAMS\\BUILDING_TEAMS.vcxproj|C:\\Users\\legion y9000p\\Desktop\\TH8_ToMau\\BUILDING_TEAMS\\BUILDING_TEAMS\\BUILDING_TEAMS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{949D872E-2505-4F23-8FB6-F275986E962C}|BUILDING_TEAMS\\BUILDING_TEAMS.vcxproj|solutionrelative:BUILDING_TEAMS\\BUILDING_TEAMS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BUILDING_TEAMS.cpp",
+              "DocumentMoniker": "C:\\Users\\legion y9000p\\Desktop\\TH8_ToMau\\BUILDING_TEAMS\\BUILDING_TEAMS\\BUILDING_TEAMS.cpp",
+              "RelativeDocumentMoniker": "BUILDING_TEAMS\\BUILDING_TEAMS.cpp",
+              "ToolTip": "C:\\Users\\legion y9000p\\Desktop\\TH8_ToMau\\BUILDING_TEAMS\\BUILDING_TEAMS\\BUILDING_TEAMS.cpp",
+              "RelativeToolTip": "BUILDING_TEAMS\\BUILDING_TEAMS.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwDkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-09T03:33:40.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
