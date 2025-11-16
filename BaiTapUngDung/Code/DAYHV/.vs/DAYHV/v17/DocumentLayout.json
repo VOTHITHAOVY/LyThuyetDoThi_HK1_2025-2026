@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\legion y9000p\\Desktop\\BaiTapUngDung\\Code\\DAYHV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F5017-4761-4597-9163-02F7586C221B}|DAYHV\\DAYHV.vcxproj|C:\\Users\\legion y9000p\\Desktop\\BaiTapUngDung\\Code\\DAYHV\\DAYHV\\DAYHV.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC4F5017-4761-4597-9163-02F7586C221B}|DAYHV\\DAYHV.vcxproj|solutionrelative:DAYHV\\DAYHV.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAYHV.cpp",
+              "DocumentMoniker": "C:\\Users\\legion y9000p\\Desktop\\BaiTapUngDung\\Code\\DAYHV\\DAYHV\\DAYHV.cpp",
+              "RelativeDocumentMoniker": "DAYHV\\DAYHV.cpp",
+              "ToolTip": "C:\\Users\\legion y9000p\\Desktop\\BaiTapUngDung\\Code\\DAYHV\\DAYHV\\DAYHV.cpp",
+              "RelativeToolTip": "DAYHV\\DAYHV.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvyoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-15T23:23:28.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
