@@ -1,0 +1,7 @@
+﻿  DanhSachKe.cpp
+C:\Users\legion y9000p\Desktop\NhapXuatMaTran\Code\DanhSachKe\DanhSachKe\DanhSachKe.cpp(25,36): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\legion y9000p\Desktop\NhapXuatMaTran\Code\DanhSachKe\DanhSachKe\DanhSachKe.cpp(25,36): warning C4267:         with
+C:\Users\legion y9000p\Desktop\NhapXuatMaTran\Code\DanhSachKe\DanhSachKe\DanhSachKe.cpp(25,36): warning C4267:         [
+C:\Users\legion y9000p\Desktop\NhapXuatMaTran\Code\DanhSachKe\DanhSachKe\DanhSachKe.cpp(25,36): warning C4267:             _Ty=int
+C:\Users\legion y9000p\Desktop\NhapXuatMaTran\Code\DanhSachKe\DanhSachKe\DanhSachKe.cpp(25,36): warning C4267:         ]
+  DanhSachKe.vcxproj -> C:\Users\legion y9000p\Desktop\NhapXuatMaTran\Code\DanhSachKe\x64\Debug\DanhSachKe.exe

@@ -1,0 +1,8 @@
+﻿  ChuyenDoi.cpp
+C:\Users\legion y9000p\Desktop\NhapXuatMaTran\Code\ChuyenDoi\ChuyenDoi\ChuyenDoi.cpp(13,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\legion y9000p\Desktop\NhapXuatMaTran\Code\ChuyenDoi\ChuyenDoi\ChuyenDoi.cpp(28,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\legion y9000p\Desktop\NhapXuatMaTran\Code\ChuyenDoi\ChuyenDoi\ChuyenDoi.cpp(43,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\legion y9000p\Desktop\NhapXuatMaTran\Code\ChuyenDoi\ChuyenDoi\ChuyenDoi.cpp(56,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\legion y9000p\Desktop\NhapXuatMaTran\Code\ChuyenDoi\ChuyenDoi\ChuyenDoi.cpp(98,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\legion y9000p\Desktop\NhapXuatMaTran\Code\ChuyenDoi\ChuyenDoi\ChuyenDoi.cpp(110,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ChuyenDoi.vcxproj -> C:\Users\legion y9000p\Desktop\NhapXuatMaTran\Code\ChuyenDoi\x64\Debug\ChuyenDoi.exe
