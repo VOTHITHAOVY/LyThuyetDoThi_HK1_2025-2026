@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\legion y9000p\\Desktop\\TH8_ToMau\\Bai2_ToMauDoThi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE985E-DB61-4633-97B5-E58475DE7429}|Bai2_ToMauDoThi\\Bai2_ToMauDoThi.vcxproj|C:\\Users\\legion y9000p\\Desktop\\TH8_ToMau\\Bai2_ToMauDoThi\\Bai2_ToMauDoThi\\Bai2_ToMauDoThi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFEE985E-DB61-4633-97B5-E58475DE7429}|Bai2_ToMauDoThi\\Bai2_ToMauDoThi.vcxproj|solutionrelative:Bai2_ToMauDoThi\\Bai2_ToMauDoThi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai2_ToMauDoThi.cpp",
+              "DocumentMoniker": "C:\\Users\\legion y9000p\\Desktop\\TH8_ToMau\\Bai2_ToMauDoThi\\Bai2_ToMauDoThi\\Bai2_ToMauDoThi.cpp",
+              "RelativeDocumentMoniker": "Bai2_ToMauDoThi\\Bai2_ToMauDoThi.cpp",
+              "ToolTip": "C:\\Users\\legion y9000p\\Desktop\\TH8_ToMau\\Bai2_ToMauDoThi\\Bai2_ToMauDoThi\\Bai2_ToMauDoThi.cpp",
+              "RelativeToolTip": "Bai2_ToMauDoThi\\Bai2_ToMauDoThi.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-09T03:25:22.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
