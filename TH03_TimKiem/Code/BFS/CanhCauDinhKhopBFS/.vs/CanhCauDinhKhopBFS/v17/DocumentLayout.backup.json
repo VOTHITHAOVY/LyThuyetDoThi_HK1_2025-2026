@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\legion y9000p\\Desktop\\TH03_TimKiem\\Code\\BFS\\CanhCauDinhKhopBFS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59618296-365F-4033-9472-8E76BC4C881E}|CanhCauDinhKhopBFS\\CanhCauDinhKhopBFS.vcxproj|C:\\Users\\legion y9000p\\Desktop\\TH03_TimKiem\\Code\\BFS\\CanhCauDinhKhopBFS\\CanhCauDinhKhopBFS\\CanhCauDinhKhopBFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59618296-365F-4033-9472-8E76BC4C881E}|CanhCauDinhKhopBFS\\CanhCauDinhKhopBFS.vcxproj|solutionrelative:CanhCauDinhKhopBFS\\CanhCauDinhKhopBFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CanhCauDinhKhopBFS.cpp",
+              "DocumentMoniker": "C:\\Users\\legion y9000p\\Desktop\\TH03_TimKiem\\Code\\BFS\\CanhCauDinhKhopBFS\\CanhCauDinhKhopBFS\\CanhCauDinhKhopBFS.cpp",
+              "RelativeDocumentMoniker": "CanhCauDinhKhopBFS\\CanhCauDinhKhopBFS.cpp",
+              "ToolTip": "C:\\Users\\legion y9000p\\Desktop\\TH03_TimKiem\\Code\\BFS\\CanhCauDinhKhopBFS\\CanhCauDinhKhopBFS\\CanhCauDinhKhopBFS.cpp",
+              "RelativeToolTip": "CanhCauDinhKhopBFS\\CanhCauDinhKhopBFS.cpp",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-19T19:10:34.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

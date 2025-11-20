@@ -1,0 +1,3 @@
+﻿  DFS_kodequy.cpp
+C:\Users\legion y9000p\Desktop\TH03_TimKiem\Code\DFS\DFS_kodequy\DFS_kodequy\DFS_kodequy.cpp(34,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DFS_kodequy.vcxproj -> C:\Users\legion y9000p\Desktop\TH03_TimKiem\Code\DFS\DFS_kodequy\x64\Debug\DFS_kodequy.exe

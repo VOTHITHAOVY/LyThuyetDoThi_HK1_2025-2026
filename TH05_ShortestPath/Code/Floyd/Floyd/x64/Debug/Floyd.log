@@ -1,0 +1,3 @@
+﻿  Floyd.cpp
+C:\Users\ACER\OneDrive\Máy tính\Bai5\Floyd\Floyd\Floyd.cpp(8,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Floyd.vcxproj -> C:\Users\ACER\OneDrive\Máy tính\Bai5\Floyd\x64\Debug\Floyd.exe

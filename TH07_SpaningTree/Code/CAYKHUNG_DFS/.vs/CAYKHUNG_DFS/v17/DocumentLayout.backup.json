@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\legion y9000p\\Desktop\\TH06 - Duong di ngan nhat\\Code\\CAYKHUNG_DFS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09421F83-1BF5-4C5F-8686-BD84411DB40C}|CAYKHUNG_DFS\\CAYKHUNG_DFS.vcxproj|C:\\Users\\legion y9000p\\Desktop\\TH06 - Duong di ngan nhat\\Code\\CAYKHUNG_DFS\\CAYKHUNG_DFS\\CAYKHUNG_DFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09421F83-1BF5-4C5F-8686-BD84411DB40C}|CAYKHUNG_DFS\\CAYKHUNG_DFS.vcxproj|solutionrelative:CAYKHUNG_DFS\\CAYKHUNG_DFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CAYKHUNG_DFS.cpp",
+              "DocumentMoniker": "C:\\Users\\legion y9000p\\Desktop\\TH06 - Duong di ngan nhat\\Code\\CAYKHUNG_DFS\\CAYKHUNG_DFS\\CAYKHUNG_DFS.cpp",
+              "RelativeDocumentMoniker": "CAYKHUNG_DFS\\CAYKHUNG_DFS.cpp",
+              "ToolTip": "C:\\Users\\legion y9000p\\Desktop\\TH06 - Duong di ngan nhat\\Code\\CAYKHUNG_DFS\\CAYKHUNG_DFS\\CAYKHUNG_DFS.cpp",
+              "RelativeToolTip": "CAYKHUNG_DFS\\CAYKHUNG_DFS.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-19T23:45:53.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

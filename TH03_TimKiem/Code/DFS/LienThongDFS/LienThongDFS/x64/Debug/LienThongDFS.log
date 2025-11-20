@@ -1,0 +1,3 @@
+﻿  LienThongDFS.cpp
+C:\Users\legion y9000p\Desktop\TH03_TimKiem\Code\DFS\LienThongDFS\LienThongDFS\LienThongDFS.cpp(22,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  LienThongDFS.vcxproj -> C:\Users\legion y9000p\Desktop\TH03_TimKiem\Code\DFS\LienThongDFS\x64\Debug\LienThongDFS.exe

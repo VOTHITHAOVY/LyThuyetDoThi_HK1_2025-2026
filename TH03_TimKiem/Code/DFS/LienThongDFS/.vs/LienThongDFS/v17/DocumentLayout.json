@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\legion y9000p\\Desktop\\TH03_TimKiem\\Code\\DFS\\LienThongDFS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5F7B98-F0C1-4A09-82DF-8FE3B9221670}|LienThongDFS\\LienThongDFS.vcxproj|C:\\Users\\legion y9000p\\Desktop\\TH03_TimKiem\\Code\\DFS\\LienThongDFS\\LienThongDFS\\LienThongDFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB5F7B98-F0C1-4A09-82DF-8FE3B9221670}|LienThongDFS\\LienThongDFS.vcxproj|solutionrelative:LienThongDFS\\LienThongDFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LienThongDFS.cpp",
+              "DocumentMoniker": "C:\\Users\\legion y9000p\\Desktop\\TH03_TimKiem\\Code\\DFS\\LienThongDFS\\LienThongDFS\\LienThongDFS.cpp",
+              "RelativeDocumentMoniker": "LienThongDFS\\LienThongDFS.cpp",
+              "ToolTip": "C:\\Users\\legion y9000p\\Desktop\\TH03_TimKiem\\Code\\DFS\\LienThongDFS\\LienThongDFS\\LienThongDFS.cpp",
+              "RelativeToolTip": "LienThongDFS\\LienThongDFS.cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-19T19:21:16.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

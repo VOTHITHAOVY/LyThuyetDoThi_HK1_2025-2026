@@ -1,0 +1,5 @@
+﻿  EulerDanhSachKe.cpp
+C:\Users\legion y9000p\Desktop\TH04_EulerHamilton\Code\EulerDanhSachKe\EulerDanhSachKe\EulerDanhSachKe.cpp(9,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\legion y9000p\Desktop\TH04_EulerHamilton\Code\EulerDanhSachKe\EulerDanhSachKe\EulerDanhSachKe.cpp(64,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\legion y9000p\Desktop\TH04_EulerHamilton\Code\EulerDanhSachKe\EulerDanhSachKe\EulerDanhSachKe.cpp(114,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EulerDanhSachKe.vcxproj -> C:\Users\legion y9000p\Desktop\TH04_EulerHamilton\Code\EulerDanhSachKe\x64\Debug\EulerDanhSachKe.exe

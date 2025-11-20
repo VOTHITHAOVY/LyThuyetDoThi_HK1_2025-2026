@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\legion y9000p\\Desktop\\TH04_EulerHamilton\\Code\\DoThiNuaEuler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55F0B8D3-1EAE-4B6E-A053-EBDA6ED4758C}|DoThiNuaEuler\\DoThiNuaEuler.vcxproj|C:\\Users\\legion y9000p\\Desktop\\TH04_EulerHamilton\\Code\\DoThiNuaEuler\\DoThiNuaEuler\\DoThiNuaEuler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55F0B8D3-1EAE-4B6E-A053-EBDA6ED4758C}|DoThiNuaEuler\\DoThiNuaEuler.vcxproj|solutionrelative:DoThiNuaEuler\\DoThiNuaEuler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoThiNuaEuler.cpp",
+              "DocumentMoniker": "C:\\Users\\legion y9000p\\Desktop\\TH04_EulerHamilton\\Code\\DoThiNuaEuler\\DoThiNuaEuler\\DoThiNuaEuler.cpp",
+              "RelativeDocumentMoniker": "DoThiNuaEuler\\DoThiNuaEuler.cpp",
+              "ToolTip": "C:\\Users\\legion y9000p\\Desktop\\TH04_EulerHamilton\\Code\\DoThiNuaEuler\\DoThiNuaEuler\\DoThiNuaEuler.cpp",
+              "RelativeToolTip": "DoThiNuaEuler\\DoThiNuaEuler.cpp",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAgwIwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-19T23:06:56.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

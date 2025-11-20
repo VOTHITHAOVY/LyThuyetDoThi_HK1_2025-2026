@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\legion y9000p\\Desktop\\TH03_TimKiem\\Code\\DFS\\DuongDiDFS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53ED7B33-8699-4D7A-BA0F-0F3ACB1C3852}|DuongDiDFS\\DuongDiDFS.vcxproj|C:\\Users\\legion y9000p\\Desktop\\TH03_TimKiem\\Code\\DFS\\DuongDiDFS\\DuongDiDFS\\DuongDiDFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53ED7B33-8699-4D7A-BA0F-0F3ACB1C3852}|DuongDiDFS\\DuongDiDFS.vcxproj|solutionrelative:DuongDiDFS\\DuongDiDFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DuongDiDFS.cpp",
+              "DocumentMoniker": "C:\\Users\\legion y9000p\\Desktop\\TH03_TimKiem\\Code\\DFS\\DuongDiDFS\\DuongDiDFS\\DuongDiDFS.cpp",
+              "RelativeDocumentMoniker": "DuongDiDFS\\DuongDiDFS.cpp",
+              "ToolTip": "C:\\Users\\legion y9000p\\Desktop\\TH03_TimKiem\\Code\\DFS\\DuongDiDFS\\DuongDiDFS\\DuongDiDFS.cpp",
+              "RelativeToolTip": "DuongDiDFS\\DuongDiDFS.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-19T19:30:44.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
